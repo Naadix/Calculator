@@ -1,3 +1,3 @@
 # Calculator
-## a Small project of desktop application For Calculator  
+## a small project of Desktop Application For Calculator  
 ### Using SWING for IHM 
